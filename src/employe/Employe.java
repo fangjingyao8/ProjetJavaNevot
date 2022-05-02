@@ -36,6 +36,10 @@ public class Employe {
         this.age = age;
     }
 
+    public void examinerEnclos(){
+
+    }
+
     @Override
     public String toString() {
         return "Employe {" +
