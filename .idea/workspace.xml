@@ -2,17 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4221231e-ccbe-4974-b118-8329aa7156f8" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/src/animal/Aigle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/animal/Baleine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/animal/Loup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/animal/Ours.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/animal/Pingouin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/animal/Poisson.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/animal/Requin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/animal/Tigre.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/animal/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/animal/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/employe/Employe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/employe/Employe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/enclos/Aquarium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enclos/Aquarium.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/enclos/Voliere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enclos/Voliere.java" afterDir="false" />
     </list>
     <list id="1808180a-013c-4f15-9234-0c47710c0311" name="Changes by nassi" comment="">
-      <change beforePath="$PROJECT_DIR$/src/enclos/Aquarium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enclos/Aquarium.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/enclos/Enclos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enclos/Enclos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/zoo/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/zoo/Zoo.java" afterDir="false" />
     </list>
-    <list id="f59ceead-4f2f-4517-bf9e-a32e54ac4615" name="Changes by pc-lucas" comment="" />
+    <list id="4275667d-1e8a-41aa-8496-6f49725975ae" name="Changes by nassim" comment="" />
+    <list id="47807415-5ec2-489b-9ed2-3c1b53522535" name="Changes by PLucas" comment="">
+      <change beforePath="$PROJECT_DIR$/src/enclos/Voliere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enclos/Voliere.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +38,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/src/enclos/Voliere.java">
+      <ranges>
+        <range start1="3" end1="3" start2="3" end2="7" changelist="47807415-5ec2-489b-9ed2-3c1b53522535" />
+        <range start1="6" end1="6" start2="10" end2="26" changelist="4221231e-ccbe-4974-b118-8329aa7156f8" />
+      </ranges>
+    </file>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -35,7 +53,9 @@
     <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectId" id="28bMviws3lbdwDxsadX0aV1iNdS" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -78,7 +98,7 @@
       <workItem from="1651481120020" duration="323000" />
       <workItem from="1651481461188" duration="214000" />
       <workItem from="1651481697509" duration="116000" />
-      <workItem from="1651481938294" duration="3143000" />
+      <workItem from="1651481938294" duration="8704000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1651482700344</created>
@@ -94,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651483949117</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Changes">
+      <created>1651485171040</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1651485171040</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +141,17 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Changes" />
     <option name="LAST_COMMIT_MESSAGE" value="Changes" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/../../../../Program Files/Eclipse Adoptium/jdk-17.0.3.7-hotspot/lib/src.zip!/java.base/java/lang/Object.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

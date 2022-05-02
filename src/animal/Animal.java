@@ -1,5 +1,7 @@
 package animal;
 
+import java.util.Objects;
+
 public class Animal {
     private String nom;
     private String sexe;
@@ -119,5 +121,11 @@ public class Animal {
                 ", sommeil = " + sommeil +
                 ", sante = " + sante +
                 '}';
+    }
+
+    public boolean equals(Animal a) {
+        if (this == a) return true;
+        Animal animal = a;
+        return this.poids == animal.poids && this.taille == animal.taille && this.age == animal.age && this.faim == animal.faim && this.sommeil == animal.sommeil && this.sante == animal.sante && this.nom.equals(animal.nom) && this.sexe.equals(animal.sexe);
     }
 }
