@@ -1,12 +1,15 @@
 package enclos;
 
+import animal.*;
+import java.util.ArrayList;
+
 public class Voliere extends Enclos{
 
     private double hauteur;
     private boolean veriftoit;
 
     public Voliere(String nom, double superficie, int nb_max_animaux, int nb_animaux_pres, String proprete) {
-        super(nom, superficie, nb_max_animaux, nb_animaux_pres, proprete);
+        super(nom, superficie, nb_max_animaux, proprete);
     }
 
     public double getHauteur() {
